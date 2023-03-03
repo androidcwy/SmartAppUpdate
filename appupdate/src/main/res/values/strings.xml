@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_update_latest_version">当前已是最新版本!</string>
+    <string name="app_update_start_download">开始下载</string>
+    <string name="app_update_start_download_hint">可稍后查看下载进度</string>
+    <string name="app_update_start_downloading">正在下载新版本</string>
+    <string name="app_update_download_completed">下载完成</string>
+    <string name="app_update_click_hint">点击进行安装</string>
+    <string name="app_update_download_error">下载出错</string>
+    <string name="app_update_continue_downloading">点击继续下载</string>
+    <string name="app_update_background_downloading">正在后台下载新版本…</string>
+    <string name="app_update_dialog_new">发现新版本%s可以下载啦！</string>
+    <string name="app_update_dialog_new_size">新版本大小：%s</string>
+    <string name="app_update_update">升级</string>
+
+    <!--app下载更新-->
+    <string name="app_update_dialog_update_title">应用更新</string>
+    <string name="app_update_dialog_update_version">最新版本：%1$s</string>
+    <string name="app_update_dialog_update_size">新版本大小：%1$s</string>
+    <string name="app_update_dialog_update_content_title">更新内容</string>
+    <string name="app_update_dialog_update_content">1.用户体验优化\n2.部分问题修复</string>
+    <string name="app_update_dialog_update_force_tip">你需要更新应用才能继续使用</string>
+    <string name="app_update_dialog_down_cancel">取消更新</string>
+    <string name="app_update_dialog_download_error">下载失败</string>
+    <string name="app_update_dialog_current_update_text">立即更新</string>
+    <string name="app_update_dialog_current_install_text">立即安装</string>
+    <string name="app_update_dialog_update_later_text">稍后更新</string>
+    <string name="app_update_dialog_update_retry">重试</string>
+    <string name="app_update_dialog_update_exit">暂不更新</string>
+    <string name="app_update_dialog_app_exit">退出应用</string>
+    <string name="app_update_dialog_update_permission">请授权访问存储空间权限，更新后更流畅哦</string>
+    <string name="app_update_dialog_default_update_content">1.用户体验优化\n2.性能优化\n3.bug修复</string>
+</resources>
